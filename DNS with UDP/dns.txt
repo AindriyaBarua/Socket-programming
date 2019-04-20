@@ -1,0 +1,6 @@
+www.amrita.edu
+10.0.0.191
+www.google.com
+172.217.26.164
+www.geeksforgeeks.org
+52.222.138.170
